@@ -1,0 +1,6 @@
+{
+  "name": "Spanish-Armenian Reading & Quizzes",
+  "description": "An interactive bilingual application for learning Spanish texts and tenses through reading, sentence clicks, flashcards, word order challenges, and interactive quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
